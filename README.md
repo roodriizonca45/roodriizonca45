@@ -11,6 +11,10 @@
 - 📚 Actualmente en formación académica en **Ingeniería en Sistemas-Universidad Tecnologia Nacional FRM** y con experiencia práctica en desarrollo de software.  
 - 🌱 Mejorando día a día en **backend, frontend y bases de datos**.  
 - ⚡ Siempre buscando **equilibrio** entre mi carrera profesional y mis metas deportivas.  
+## 🏆 Logros & Certificaciones  
+- 🥇 Primer puesto en competencia de natación universitaria (2024).  
+- 🎓 Certificación en **Bases de Datos Oracle (SQL Fundamentals I)**.  
+- 💻 Proyecto académico destacado en **Desarrollo de Software** (UTN-FRM).  
 
 ---
 ## 💻 Tech Stack
@@ -57,6 +61,20 @@
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=roodriizonca45&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roodriizonca45&layout=compact&theme=radical)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roodriizonca45&theme=radical)
+
+---
+## 📂 Proyectos Destacados  
+
+- 🏥 [Hospital Management System](https://github.com/roodriizonca45/hospital-system)  
+  _Sistema de gestión hospitalaria en **Java + Spring Boot + Lombok**, con arquitectura en capas._  
+
+- 🏋️ [AM Sport Training](https://github.com/roodriizonca45/gym-system)  
+  _Sistema integral de gestión de gimnasio con **Oracle + SQL + Java**._  
+
+- 🍽️ [CUISIS e-commerce](https://github.com/roodriizonca45/cuisis)  
+  _Plataforma de productores culinarios en **React + Node.js + MongoDB**._  
 
 ---
 
