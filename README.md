@@ -64,19 +64,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roodriizonca45&theme=radical)
 
----
-## 📂 Proyectos Destacados  
 
-- 🏥 [Hospital Management System](https://github.com/roodriizonca45/hospital-system)  
-  _Sistema de gestión hospitalaria en **Java + Spring Boot + Lombok**, con arquitectura en capas._  
-
-- 🏋️ [AM Sport Training](https://github.com/roodriizonca45/gym-system)  
-  _Sistema integral de gestión de gimnasio con **Oracle + SQL + Java**._  
-
-- 🍽️ [CUISIS e-commerce](https://github.com/roodriizonca45/cuisis)  
-  _Plataforma de productores culinarios en **React + Node.js + MongoDB**._  
-
----
 
 ## 🌐 Conéctate conmigo  
 
