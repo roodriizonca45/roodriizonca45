@@ -32,13 +32,11 @@
 ### ⚙️ Backend  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/assemblyscript.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lombok.svg" width="50" height="50" title="Lombok"/>     
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lombok.svg" width="50" height="50"/>     
 </div>  
 
 ### 🗄️ Databases  
