@@ -32,11 +32,12 @@
 ### ⚙️ Backend  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/assemblyscript.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lombok.svg" width="50" height="50"/>     
+  <a href="https://projectlombok.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Lombok-BC0F0F?style=for-the-badge&logo=java&logoColor=white" height="30" title="Lombok"/>
+</a>
+
 </div>  
 
 ### 🗄️ Databases  
