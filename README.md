@@ -11,7 +11,7 @@
 - 📚 Actualmente en formación académica en **Ingeniería en Sistemas-Universidad Tecnologia Nacional FRM** y con experiencia práctica en desarrollo de software.  
 - 🌱 Mejorando día a día en **backend, frontend y bases de datos**.  
 - ⚡ Siempre buscando **equilibrio** entre mi carrera profesional y mis metas deportivas.
-- 
+  
 ## 🏆 Logros & Certificaciones  
 - 🥇 Primer puesto en competencia de natación universitaria (2024).  
 - 🎓 Certificación en **Bases de Datos Oracle (SQL Fundamentals I)**.  
