@@ -18,7 +18,6 @@
 - 💻 Proyecto académico destacado en **Desarrollo de Software** (UTN-FRM).  
 
 ---
-## 💻 Tech Stack
 
 ## 💻 Tech Stack  
 
@@ -38,8 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=arm&logoColor=white" height="30"/>  
-  <img src="https://img.shields.io/badge/Lombok-BC0F0F?style=for-the-badge&logo=java&logoColor=white" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/assemblyscript.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lombok.svg" width="50" height="50" title="Lombok"/>     
 </div>  
 
 ### 🗄️ Databases  
