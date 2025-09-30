@@ -1,9 +1,9 @@
-<!-- 🚀 Banner dinámico -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=250&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20FullStack%20Developer%20|%20Master%20Swimmer&descSize=20&descAlignY=55)
+<!-- Banner dinámico con tu nombre -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Ingeniero%20en%20Sistemas%20|%20FullStack%20Developer%20|%20Master%20Swimmer&descAlignY=60&descSize=18)
 
-<!-- Fondo informático -->
+<!-- Imagen de fondo estilo circuitos -->
 <p align="center">
-  <img src="https://www.bing.com/th/id/OIP.fyzheuTpy7mkxtPS5wPrxQHaEc?w=248&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="Fondo Informático" width="900"/>
+  <img src="https://th.bing.com/th/id/OIP.yq0CzentRV57t0HIVQ354QHaEc?w=278&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="Fondo Informático" width="1000"/>
 </p>
 
 <!-- Efecto máquina de escribir -->
