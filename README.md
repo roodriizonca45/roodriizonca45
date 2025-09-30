@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Sobre mí  
-- 🎯 Apasionado por la **tecnología**, la **programación**, la **Química** y la **resolución de problemas complejos**.
+- 🎯 Apasionado por la **tecnología**, la **programación**, la **química** y la **resolución de problemas complejos**.
 - 📚 Actualmente en formación académica en **Ingeniería en Sistemas-Universidad Tecnologia Nacional FRM** y con experiencia práctica en desarrollo de software.  
 - 🌱 Mejorando día a día en **backend, frontend y bases de datos**.  
 - ⚡ Siempre buscando **equilibrio** entre mi carrera profesional y mis metas deportivas.
@@ -28,7 +28,7 @@
 - 🥇 Primer puesto en competencia de natación universitaria (2024-2025).  
 - 🎓 Certificación en **Bases de Datos Oracle (SQL Fundamentals I)**.  
 - 💻 Proyecto académico destacado en **Desarrollo de Software** (UTN-FRM).
-- 🧪 Certificacion en **Química Organica-Inorganica-Analitica (Química General)**
+- 🧪 Certificación en **Química Orgánica-Inorgánica-Analítica (Química General)**
 
 ---
 
@@ -79,6 +79,8 @@
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=roodriizonca45&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roodriizonca45&layout=compact&theme=radical)  
+
+---
 
 ## 🌐 Conéctate conmigo  
 
