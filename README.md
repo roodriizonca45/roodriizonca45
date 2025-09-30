@@ -1,13 +1,20 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=250&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20Desarrollador%20FullStack%20|%20Master%20Swimmer&descSize=20&descAlignY=55)
+<!-- Banner dinámico -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=250&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20FullStack%20Developer%20|%20Master%20Swimmer&descSize=20&descAlignY=55)
+
+<!-- Fondo informático -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roodriizonca45/roodriizonca45/main/OIP.webp" alt="Fondo Informático" width="900"/>
+</p>
+
+<!-- Efecto máquina de escribir -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=💻+Ingeniero+en+Sistemas+de+Informaci%C3%B3n;⚡+FullStack+Developer;☕+Java+%7C+Python+%7C+C%2B%2B+%7C+JS+%7C+CSS+%7C+HTML5;🗄️+Oracle+%7C+MongoDB+%7C+PostgreSQL;🖥️+Apasionado+por+la+Tecnolog%C3%ADa+y+la+Nataci%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=💻+Ingeniero+en+Sistemas+de+Informaci%C3%B3n;⚡+FullStack+Developer;☕+Java+%7C+Python+%7C+C%2B%2B+%7C+JS+%7C+CSS+%7C+HTML5;🗄️+Oracle+%7C+MongoDB+%7C+PostgreSQL;🏊+Apasionado+por+la+Nataci%C3%B3n)](https://git.io/typing-svg)
 
 </div>
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Fondo informático" width="800"/>
-</p>
----
+
+
+
 # 👋 Hola, soy Rodrigo Angel Zonca  
 
 🎓 **Estudiante de Ingeniería en Sistemas de Información**  
