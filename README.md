@@ -10,12 +10,12 @@
 
 
 
-# 👋 Hola, soy Rodrigo Angel Zonca  
+## 👋 Hola, soy Rodrigo Angel Zonca  
 
--🎓 **Estudiante de Ingeniería en Sistemas de Información-UTN FRM**  
--🛠️ **Tecnico Especializado en Industrias de Proceso y Petroleo-ETIEC**
--💻 **Desarrollador FullStack**  
--🏊 **Master Swimmer** (Natación competitiva)  
+🎓 **Estudiante de Ingeniería en Sistemas de Información-UTN FRM** 
+🛠️ **Tecnico Especializado en Industrias de Proceso y Petroleo-ETIEC**
+💻 **Desarrollador FullStack**  
+🏊 **Master Swimmer** (Natación competitiva)  
 
 ---
 
