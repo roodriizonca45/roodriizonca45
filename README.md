@@ -1,9 +1,9 @@
-<!-- Banner dinámico azul marino -->
+<!-- 🚀 Banner dinámico -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=250&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20FullStack%20Developer%20|%20Master%20Swimmer&descSize=20&descAlignY=55)
 
-<!-- Fondo informático dinámico -->
+<!-- Fondo informático -->
 <p align="center">
-  <img src="https://www.svgbackgrounds.com/wp-content/uploads/2021/05/circuit-board-dark.svg" alt="Fondo Informático" width="900"/>
+  <img src="https://www.bing.com/th/id/OIP.fyzheuTpy7mkxtPS5wPrxQHaEc?w=248&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="Fondo Informático" width="900"/>
 </p>
 
 <!-- Efecto máquina de escribir -->
@@ -12,6 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=💻+Ingeniero+en+Sistemas+de+Informaci%C3%B3n;⚡+FullStack+Developer;☕+Java+%7C+Python+%7C+C%2B%2B+%7C+JS+%7C+CSS+%7C+HTML5;🗄️+Oracle+%7C+MongoDB+%7C+PostgreSQL;🏊+Apasionado+por+la+Nataci%C3%B3n)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 
 
