@@ -1,9 +1,9 @@
-<!-- Banner dinámico -->
+<!-- Banner dinámico azul marino -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=250&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20FullStack%20Developer%20|%20Master%20Swimmer&descSize=20&descAlignY=55)
 
-<!-- Fondo informático -->
+<!-- Fondo informático dinámico -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roodriizonca45/roodriizonca45/main/OIP.webp" alt="Fondo Informático" width="900"/>
+  <img src="https://www.svgbackgrounds.com/wp-content/uploads/2021/05/circuit-board-dark.svg" alt="Fondo Informático" width="900"/>
 </p>
 
 <!-- Efecto máquina de escribir -->
