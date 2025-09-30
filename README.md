@@ -1,3 +1,15 @@
+<!-- 🚀 Banner dinámico con SVG -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff1e56,100:2d27ff&height=250&section=header&text=Rodrigo%20Zonca%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20Desarrollador%20FullStack%20|%20Master%20Swimmer&descSize=20&descAlignY=55)
+
+<!-- 👇 Efecto máquina de escribir con skills -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=💻+Ingeniero+en+Sistemas+de+Informaci%C3%B3n;⚡+Desarrollador+FullStack;☕+Java+%7C+Python+%7C+C%2B%2B+%7C+JS+%7C+CSS+%7C+HTML5;🗄️+Oracle+%7C+MongoDB+%7C+PostgreSQL;🏊+Apasionado+por+la+Nataci%C3%B3n)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 # 👋 Hola, soy Rodrigo Angel Zonca  
 
 🎓 **Estudiante de Ingeniería en Sistemas de Información**  
