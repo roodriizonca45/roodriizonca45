@@ -1,8 +1,8 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=000080&height=230&section=header&text=Rodrigo%20Angel%20Zonca%20💻&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20|%20FullStack%20Developer%20|%20Master%20Swimmer&descSize=18&descAlignY=60)
 <!-- Efecto máquina de escribir -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Ingeniero+en+Sistemas+de+Informaci%C3%B3n;⚡+FullStack+Developer;☕+Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;🗄️+Oracle+%7C+MongoDB+%7C+PostgreSQL;🏊+Master+Swimmer+%7C+Nataci%C3%B3n+Competitiva)](https://git.io/typing-svg)
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Ingeniero+en+Sistemas+de+Informaci%C3%B3n;⚡+FullStack+Developer;☕+Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;🗄️+Oracle+%7C+MongoDB+%7C+PostgreSQL;🏊+Master+Swimmer+%7C+Nataci%C3%B3n+Competitiva" alt="Typing SVG" />
 
 </div>
 
