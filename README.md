@@ -9,18 +9,17 @@
 ---
 
 
-
 ## 👋 Hola, soy Rodrigo Angel Zonca  
+- 🎓 **Estudiante de Ingeniería en Sistemas de Información-UTN FRM**.
+- 🛠️ **Técnico Especializado en Industrias de Proceso y Petróleo-ETIEC**.
+- 💻 **Desarrollador FullStack**.
+- 🏊 **Master Swimmer** (Natación competitiva).
 
-🎓 **Estudiante de Ingeniería en Sistemas de Información-UTN FRM**.
-🛠️ **Técnico Especializado en Industrias de Proceso y Petróleo-ETIEC**.
-💻 **Desarrollador FullStack**.
-🏊 **Master Swimmer** (Natación competitiva).
 
 ---
 
 ## 🚀 Sobre mí  
-- 🎯 Apasionado por la **tecnología**, la **programación**, la **Química** y la **resolución de problemas complejos**.  
+- 🎯 Apasionado por la **tecnología**, la **programación**, la **Química** y la **resolución de problemas complejos**.
 - 📚 Actualmente en formación académica en **Ingeniería en Sistemas-Universidad Tecnologia Nacional FRM** y con experiencia práctica en desarrollo de software.  
 - 🌱 Mejorando día a día en **backend, frontend y bases de datos**.  
 - ⚡ Siempre buscando **equilibrio** entre mi carrera profesional y mis metas deportivas.
