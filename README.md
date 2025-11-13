@@ -85,7 +85,7 @@
 ## 🌐 Conéctate conmigo  
 
 - 📧 **Email:** [Email](mailto:roodriizonca45@gmail.com)  
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rodrigo-zonca-514438350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rodrigo-angel-zonca-514438350/)  
 - 🏊 **Instagram:** [Instagram](https://www.instagram.com/zoncarodri14?igsh=bWFlcGNyZXBhazAy&utm_source=qr)  
 
 ---
